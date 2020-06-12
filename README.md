@@ -1,9 +1,9 @@
 # HackUST2019: "Dancing with the Pizza"
 
-This is an augmented reality system/game where people can see highlights (bounding boxes) over their food, and tapping their food will produce a certain instrumental sound to synthesize music (including guitar chords, piano on different scales, and drums); it executed on Mixed Reality lens with object detection
+<img src="http://siddharthadatta.ml/images/armusic.png" height="300"/>
 
-Due to size constraints, this repository is uploaded in the following link (https://bit.ly/2P7YYRQ). Download the repository and run the objectdetection+airdrums-ver2.ipynb notebook to run the model. 
+This is an augmented reality system/game where people can see highlights (bounding boxes) over their food, and tapping their food will produce a certain instrumental sound to synthesize music (including guitar chords, piano on different scales, and drums); it executed on Mixed Reality lens with object detection.
 
-Sample videos:
-Demo 1: https://bit.ly/2GcKUCl
-Demo 2: https://bit.ly/2UY9FM0
+Model weights used can be found [here](https://drive.google.com/drive/folders/1tWczVaRlEEcPgvOBpk5LWGwZWvnaFuMk?usp=sharing) and shouuld be paced in the *CVMusicSynthesis* directory; else the complete repository can also be downloaded from [here](https://bit.ly/2P7YYRQ). Download the repository and run the *objectdetection+airdrums-ver2.ipynb* notebook to run the model. 
+
+Cringey demo videos: [[Demo 1]](https://bit.ly/2GcKUCl) [[Demo 2]](https://bit.ly/2UY9FM0)
